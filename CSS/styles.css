@@ -65,7 +65,10 @@ h2 {
   font-size: var(--font-size-h2);
   font-weight: var(--font-weight);
 }
-  
+p {
+  margin: 35px 0px;
+} 
+
 .body {
   box-sizing: border-box;
 }
