@@ -55,12 +55,13 @@ body {
   font-size: var(--font-size-standard);
   line-height: 1.6;
 }
-  
+
 h1 {
   font-size: var(--font-size-h1);
   font-weight: var(--font-weight);
 }
-  
+
+
 h2 {
   font-size: var(--font-size-h2);
   font-weight: var(--font-weight);
