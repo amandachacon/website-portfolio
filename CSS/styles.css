@@ -68,12 +68,12 @@ h2 {
 }
 p {
   margin: 35px 0px;
-} 
+}
 
 .body {
   box-sizing: border-box;
 }
- 
+
 .page-header {
   display: flex;
   width: 100%;
@@ -95,13 +95,13 @@ p {
   display: inline-block;
   margin-left: 15px;
 }
-  
+
  /*fallback*/
 .grid__item {
   display: inline-block;
   width: 33%;
  }
- 
+
  @supports (display: grid) {
   .grid {
   display: grid;
@@ -112,14 +112,12 @@ p {
   }
  }
 
-
 .grid__item {
   background-color: var(--secondary-color);
   width: auto;
   min-height: auto;
   margin: 0;
 }
-
 
 .page-footer {
   clear: both;
@@ -220,4 +218,3 @@ p {
 .cloud-back {
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
-
