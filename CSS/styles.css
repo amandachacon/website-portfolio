@@ -219,15 +219,3 @@ h2 {
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
 
-.button, button {
-  border: none;
-  display: inline-block;
-  font-family: inherit;
-  background-color: #357b70;
-  color: white;
-  text-decoration: none;
-  padding: 10px;
-  border-radius: 3px;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
-  transition: 0.2s opacity;
-}
