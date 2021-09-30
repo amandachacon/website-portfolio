@@ -35,8 +35,6 @@ body {color: var(--text-color);
 p {color: var(--text-color);
 }
 
-body a:hover {background-color: var(--secondary-color); color: var(--text-color);
-}
 
 body a:active {background-color:  var(--text-color);
 }
